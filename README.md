@@ -3,7 +3,7 @@
 I'm second-year Data Science & AI student at Breda University of Applied Sciences. I mostly work with NLP, computer vision, and MLOps – anything from training models to putting together end-to-end pipelines. I like automating things and building stuff that actually works – and overall, just anything AI-related. Currently looking for opportunities in AI/ML engineering.
 
 
-## Tech Stack
+## ⚙️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -32,7 +32,7 @@ I'm second-year Data Science & AI student at Breda University of Applied Science
 </details>
 
 
-## Featured Projects
+## 📌 Featured Projects
 
 <table>
 <tr>
