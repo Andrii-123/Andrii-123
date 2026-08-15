@@ -39,7 +39,7 @@ I'm second-year Data Science & AI student at Breda University of Applied Science
 <td width="50%" valign="top">
 
 ### ThalianaCV — MLOps Pipeline
-*Group project - Built for NPEC*
+*Group project - Built for [NPEC](https://www.npec.nl/)*
 
 CV system that segments plant shoots and roots from images and extracts root-tip coordinates. Deployed and continuously retrained across local, on-premise, and cloud (Azure ML) environments with a Docker Compose stack and automated CI/CD pipeline.
 
