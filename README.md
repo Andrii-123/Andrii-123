@@ -57,7 +57,7 @@ CV system that segments plant shoots and roots from images and extracts root-tip
 <td width="50%" valign="top">
 
 ### Autonomous Root Inoculation Pipeline
-*Individual project · Built for [NPEC](https://www.npec.nl/)*
+*Individual project - Built for [NPEC](https://www.npec.nl/)*
 
 Full CV/robotics pipeline for a simulated Opentrons OT-2 lab robot that automates root inoculation with pathogens. Segments roots from images to detect tips, then a controller guides the pipette to each one with sub-millimeter precision.
 
@@ -85,9 +85,14 @@ Fine-tuned RoBERTa for 7-class emotion classification on 550K+ Ukrainian text sa
 <td width="50%" valign="top">
 
 ### Dutch Sign Language Recognition
-Real-time NGT fingerspelling recognition app using MediaPipe hand landmarks + OpenCV. Features an interactive alphabet quiz for learning Dutch Sign Language.
+*Group project*
 
-**Stack:** `MediaPipe` `OpenCV` `Python`
+Real-time NGT fingerspelling recognition app using MediaPipe hand landmarks and OpenCV. Features an interactive alphabet quiz for learning Dutch Sign Language.
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=white&labelColor=3776AB)
+![MediaPipe](https://img.shields.io/badge/-MediaPipe-333333?style=flat&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGRkZGIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TWVkaWFQaXBlPC90aXRsZT48cGF0aCBkPSJNMi4xODIgMEMxIDAgLjAzNy45NC4wMDIgMi4xMTRMMCAyLjE4MnY2LjU0NWEyLjE4MiAyLjE4MiAwIDAgMCA0LjM2NCAwVjIuMTgyQTIuMTgyIDIuMTgyIDAgMCAwIDIuMTgyIDBabTYuNTQ1IDBjLTEuMTgyIDAtMi4xNDUuOTQtMi4xOCAyLjExNGwtLjAwMi4wNjh2MTMuMDlhMi4xODIgMi4xODIgMCAwIDAgNC4zNjQgMFYyLjE4M0EyLjE4MiAyLjE4MiAwIDAgMCA4LjcyNyAwWm02LjU0NiAwYTIuMTgyIDIuMTgyIDAgMCAwLTIuMTgyIDIuMTgyIDIuMTgyIDIuMTgyIDAgMCAwIDIuMTgyIDIuMTgyIDIuMTgyIDIuMTgyIDAgMCAwIDIuMTgyLTIuMTgyQTIuMTgyIDIuMTgyIDAgMCAwIDE1LjI3MyAwWm02LjU0NSAwYy0xLjE4MiAwLTIuMTQ1Ljk0LTIuMTggMi4xMTRsLS4wMDIuMDY4djE5LjYzNmEyLjE4MiAyLjE4MiAwIDAgMCA0LjM2NCAwVjIuMTgyQTIuMTgyIDIuMTgyIDAgMCAwIDIxLjgxOCAwWm0tNi41NDUgNi41NDVjLTEuMTgzIDAtMi4xNDUuOTQtMi4xODEgMi4xMTRsLS4wMDEuMDY4djEzLjA5MWEyLjE4MiAyLjE4MiAwIDAgMCA0LjM2NCAwVjguNzI4YTIuMTgyIDIuMTgyIDAgMCAwLTIuMTgyLTIuMTgzek0yLjE4MiAxMy4wOTFjLTEuMTgyIDAtMi4xNDUuOTQtMi4xOCAyLjExNEwwIDE1LjI3M3Y2LjU0NWEyLjE4MiAyLjE4MiAwIDAgMCA0LjM2NCAwdi02LjU0NWEyLjE4MiAyLjE4MiAwIDAgMC0yLjE4Mi0yLjE4MnptNi41NDUgNi41NDVhMi4xODIgMi4xODIgMCAwIDAtMi4xODIgMi4xODJBMi4xODIgMi4xODIgMCAwIDAgOC43MjcgMjRhMi4xODIgMi4xODIgMCAwIDAgMi4xODItMi4xODIgMi4xODIgMi4xODIgMCAwIDAtMi4xODItMi4xODJaIi8+PC9zdmc+&logoColor=white&labelColor=0097a7)
+![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=opencv&logoColor=white&labelColor=5C3EE8)
+![Scikit Learn](https://img.shields.io/badge/-Scikit--Learn-333333?style=flat&logo=scikitlearn&logoColor=white&labelColor=F7931E)
 
 [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Andrii-123/REPO_NAME)
 
