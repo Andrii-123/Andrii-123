@@ -56,12 +56,18 @@ CV system that segments plant shoots and roots from images and extracts root-tip
 </td>
 <td width="50%" valign="top">
 
-### OT-2 Autonomous Root Inoculation
-Robotics + CV + RL pipeline for autonomous lab operations. Root segmentation, path planning with NetworkX, and PID/RL control in PyBullet simulation.
+### Autonomous Root Inoculation Pipeline
+*Individual project · Built for [NPEC](https://www.npec.nl/)*
 
-**Stack:** `OpenCV` `PyBullet` `NetworkX` `scikit-image`
+Full CV/robotics pipeline for a simulated Opentrons OT-2 lab robot that automates root inoculation with pathogens. Segments roots from images to detect tips, then a controller guides the pipette to each one with sub-millimeter precision.
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Andrii-123/ot2-autonomous-root-inoculation)
+![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=opencv&logoColor=white&labelColor=5C3EE8)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow&logoColor=white&labelColor=FF6F00)
+![Stable--Baselines3](https://img.shields.io/badge/-Stable--Baselines3-333333?style=flat&logo=openai&logoColor=white&labelColor=EE4C2C)
+![Gymnasium](https://img.shields.io/badge/-Gymnasium-333333?style=flat&logo=openaigym&logoColor=white&labelColor=0081A5)
+![PyBullet](https://img.shields.io/badge/-PyBullet-333333?style=flat&logo=python&logoColor=white&labelColor=3776AB)
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Andrii-123/REPO_NAME)
 
 </td>
 </tr>
