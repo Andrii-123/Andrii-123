@@ -74,12 +74,16 @@ Full CV/robotics pipeline for a simulated Opentrons OT-2 lab robot that automate
 <tr>
 <td width="50%" valign="top">
 
-### Ukrainian Emotion Classification
-Fine-tuned RoBERTa for 7-class emotion classification on 550K+ Ukrainian text samples.
+### Ukrainian Video Emotion Classification Pipeline
+*Group project - Built for [CIA](https://www.contentintelligence.nl/)*
 
-**Stack:** `PyTorch` `Transformers` `XAI` `NLP`
+End-to-end pipeline for emotion analysis in film, TV, and video content. Fine-tuned a Ukrainian RoBERTa transformer for 7-class emotion classification — a largely underexplored area due to the scarcity of labeled Ukrainian emotion data. To overcome this, we used a local LLM to generate synthetic training data, scaling the dataset from 48K to 556K sequences.
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Andrii-123/REPO_NAME)
+![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch&logoColor=white&labelColor=EE4C2C)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-333333?style=flat&logo=huggingface&logoColor=black&labelColor=FFD21E)
+![pandas](https://img.shields.io/badge/-pandas-333333?style=flat&logo=pandas&logoColor=white&labelColor=150458)
+
+![Private](https://img.shields.io/badge/🔒_Private_Repo-181717?style=for-the-badge)
 
 </td>
 <td width="50%" valign="top">
