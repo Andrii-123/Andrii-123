@@ -94,7 +94,7 @@ Real-time NGT fingerspelling recognition app using MediaPipe hand landmarks and 
 ![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=opencv&logoColor=white&labelColor=5C3EE8)
 ![Scikit Learn](https://img.shields.io/badge/-Scikit--Learn-333333?style=flat&logo=scikitlearn&logoColor=white&labelColor=F7931E)
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/Andrii-123/REPO_NAME](https://github.com/txoof/fingerspell))
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/txoof/fingerspell)
 
 </td>
 </tr>
