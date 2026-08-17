@@ -67,7 +67,7 @@ Full CV/robotics pipeline for a simulated Opentrons OT-2 lab robot that automate
 ![Gymnasium](https://img.shields.io/badge/-Gymnasium-333333?style=flat&logo=openaigym&logoColor=white&labelColor=0081A5)
 ![PyBullet](https://img.shields.io/badge/-PyBullet-333333?style=flat&logo=python&logoColor=white&labelColor=3776AB)
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Andrii-123/REPO_NAME)
+![Private](https://img.shields.io/badge/🔒_Private_Repo-181717?style=for-the-badge)
 
 </td>
 </tr>
